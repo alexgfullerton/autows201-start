@@ -44,3 +44,4 @@ To destroy:
 -   terraform destroy
 -   cd ../terraform 
 -   terraform destroy
+test
